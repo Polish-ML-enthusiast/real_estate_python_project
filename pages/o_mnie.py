@@ -28,16 +28,17 @@ def app():
     <p>🌍 pasjonat języków obcych: angielski, niemiecki, francuski, hiszpański, niderlandzki</p>
 
     ### 🎓 Edukacja:
-    <p>📚 magister Finansów i Rachunkowości – Uniwersytet Ekonomiczny we Wrocławiu</p>
+    <p>📚 absolwent kierunku "Finanse i Rachunkowość" – Uniwersytet Ekonomiczny we Wrocławiu</p>
     <p>📘 6 studiów podyplomowych (MSSF, podatki, metody wyceny, Excel, analiza danych, VBA, Python) - 🌱 ciągły rozwój zawodowy i osobisty, który pozwala mi być na bieżąco z najnowszymi trendami i technikami w świecie finansów i technologii</p>
     <p>🎓 Executive MBA - opcja międzynarodowa – Uniwersytet Ekonomiczny we Wrocławiu</p>
 
     ### 🛠️ Moje kompetencje:
     <p>💼 finanse korporacyjne, metody wyceny spółek</p>
+    <p>🧮 analiza danych i modelowanie finansowe</p>
     <p>📈 controlling i rachunek kosztów</p>
     <p>🕵️‍♂️ audyt finansowy i due diligence</p>
     <p>📊 BI - Business Intelligence</p>           
-    <p>🐍 programowanie i analiza danych (Python, R, SQL, VBA)</p>
+    <p>🐍 programowanie (Python, R, SQL, VBA)</p>
     <p>🌐 tworzenie aplikacji webowych (HTML, CSS, JavaScript)</p>
 
     ### 📜 Doświadczenie zawodowe:

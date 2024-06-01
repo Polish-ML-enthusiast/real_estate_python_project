@@ -36,9 +36,14 @@ def app():
 
     ## Cel aplikacji🎯
 
-    Celem aplikacji jest umożliwienie użytkownikom intuicyjnej analizy danych o nieruchomościach i przewidywania cen, bazując na wybranych parametrach. Aplikacja powstała na potrzeby projektu zaliczeniowego studiów podyplomowych na Uniwersytecie MERITO w Warszawie na kierunku "Programista Python Developer".
+    Aplikacja powstała na potrzeby projektu zaliczeniowego studiów podyplomowych na Uniwersytecie MERITO w Warszawie na kierunku "Programista Python Developer".
+
+    Niniejsza aplikacja zbudowana w Streamlit jest moim pierwszym projektem w tym frameworku. Jej głównym celem było poszerzenie moich umiejętności w kontekście budowania aplikacji webowych oraz wizualizacji danych.
+
+    Chociaż modele uczenia maszynowego zawarte w tej aplikacji zostały zaprojektowane i przetestowane, projekt ten nie powinien być traktowany jako wzorcowy przykład zaawansowanego modelowania ML. Moje główne zainteresowanie skupiało się na eksploracji możliwości, jakie oferuje Streamlit, oraz na tworzeniu intuicyjnych i atrakcyjnych wizualizacji danych.
+
+    Zachęcam do korzystania z aplikacji w celu zrozumienia podstawowych technik analizy danych i wizualizacji, jednakże, wyniki uzyskane z modeli ML mogą wymagać dalszej optymalizacji i walidacji przed zastosowaniem w rzeczywistych scenariuszach biznesowych.
     """)
 
 if __name__ == "__main__":
     app()
-

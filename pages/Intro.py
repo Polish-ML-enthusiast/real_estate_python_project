@@ -1,6 +1,10 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from pages import contact, o_aplikacji, o_mnie, parameters, results, EDA
+
 import streamlit as st
 from streamlit_option_menu import option_menu
-from pages import contact, o_aplikacji, o_mnie, parameters, results, EDA
 
 # Ustawienie konfiguracji strony
 st.set_page_config(page_title="Projekt Python - Predykcja cech nieruchomości", layout='wide', initial_sidebar_state='expanded', page_icon='pictures/EDA.png')
